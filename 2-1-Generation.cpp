@@ -6,7 +6,7 @@
 #include <cstring>
 using namespace std;
 
-#define MAX 1000
+#define MAX 30
 
 int main() {
   int x[MAX], n, i;
