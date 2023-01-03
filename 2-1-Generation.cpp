@@ -1,5 +1,5 @@
 // Generate a binary string with given n (n digit)
-// Le Minh Hoang book pg 20
+// Le Minh Hoang book pg 6
 
 #include <iostream>
 #include <fstream>
