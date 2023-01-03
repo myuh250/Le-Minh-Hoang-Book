@@ -1,4 +1,4 @@
-// Generate a binary string with given n (from 0 to 2^n - 1)
+// Generate a binary string with given n (n digit)
 // Le Minh Hoang book pg 20
 
 #include <iostream>
