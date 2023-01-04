@@ -5,10 +5,10 @@
 
 using namespace std;
 
-#define max 30
+#define MAX 30
 
 int main() {
-  int x[max];
+  int x[MAX];
   int n, k, i, j;
 
   cin >> n >> k;
